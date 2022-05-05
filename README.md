@@ -1,0 +1,2 @@
+# .github
+PetiZone Organizasyon Profili
